@@ -15,4 +15,4 @@
 /tmp
 
 # Ignore IDE(Redmine) files.
-/.idea
+/.idea/*
